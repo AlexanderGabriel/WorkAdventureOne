@@ -876,7 +876,7 @@
          "tiles":[
                 {
                  "id":0,
-                 "image":"images\/bruchsalwappen.png",
+                 "image":"bruchsaltileset.png",
                  "imageheight":32,
                  "imagewidth":32
                 }],
