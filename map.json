@@ -860,7 +860,7 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
+         "columns":1,
          "firstgid":321,
          "margin":0,
          "name":"bruchsal",
