@@ -858,6 +858,20 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":321,
+         "image":"bruchsaltileset.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"bruchsaltileset",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
