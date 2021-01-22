@@ -862,24 +862,12 @@
         {
          "columns":0,
          "firstgid":321,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
          "margin":0,
          "name":"bruchsal",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"bruchsaltileset.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }],
+         "image":"bruchsaltileset.png",
          "tilewidth":32
         }],
  "tilewidth":32,
