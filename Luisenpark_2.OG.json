@@ -9,7 +9,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":126,
          "x":0,
          "y":0
@@ -27,7 +27,7 @@
                  "value":"https:\/\/www.skylinewebcams.com\/de\/webcam\/espana\/canarias\/santa-cruz-de-tenerife\/punta-brava.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":126,
          "x":0,
          "y":0
