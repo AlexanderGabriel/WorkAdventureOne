@@ -1,0 +1,235 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json",
+    "expandedProjectPaths": [
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal/maps",
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal/maps/FW-Haus",
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal/tilesets",
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse",
+        "WorkAdventureBruchsal",
+        "WorkAdventureBruchsal/maps",
+        ".",
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal/maps/FW-Haus/template.json": {
+            "scale": 0.27134375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1468.6168374985605,
+                "y": 630.1969365426696
+            }
+        },
+        "Luisenpark_2.OG.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 966,
+                "y": 2982
+            }
+        },
+        "Luisenpark_2.OG.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Luisenpark_2.OG.json#office_1": {
+            "scaleInDock": 1
+        },
+        "Luisenpark_2.OG.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json": {
+            "scale": 0.4127782534246575,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1138.6258750324084,
+                "y": 465.14078299196274
+            }
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#office_1": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#office_2": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#office_3": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json#office_4": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json": {
+            "scale": 0.602986111111111,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 610.2959806518486,
+                "y": 724.7264770240703
+            }
+        },
+        "WorkAdventureBruchsal/maps/start.json#Logo_Feuerwehr": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#bruchsaltileset": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#office_3": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#office_4": {
+            "scaleInDock": 1
+        },
+        "WorkAdventureBruchsal/maps/start.json#water": {
+            "scaleInDock": 1
+        },
+        "bruchsal.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "garden.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 511.99999999999994,
+                "y": 606.6666666666666
+            }
+        },
+        "garden.json#Brunnen_Klein": {
+            "scaleInDock": 1
+        },
+        "garden.json#area": {
+            "scaleInDock": 1
+        },
+        "garden.json#baum": {
+            "scaleInDock": 1
+        },
+        "garden.json#brunnen 6x6": {
+            "scaleInDock": 1
+        },
+        "garden.json#bushfence3": {
+            "scaleInDock": 1
+        },
+        "garden.json#fence_sign_spritesheet": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "garden.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "garden.json#forest_tiles": {
+            "scaleInDock": 1
+        },
+        "garden.json#forest_tiles2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "garden.json#gardenbottom": {
+            "scaleInDock": 1
+        },
+        "garden.json#signpost-outsidestuff": {
+            "scaleInDock": 1
+        },
+        "garden.json#table": {
+            "scaleInDock": 1
+        },
+        "garden.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "garden.json#tree_detail": {
+            "scaleInDock": 1
+        },
+        "garden.json#treetest": {
+            "scaleInDock": 1
+        },
+        "garden.json#vendors_table-shadow": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736,
+                "y": 543.5
+            }
+        },
+        "map.json#bruchsal": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#bruchsaltileset": {
+            "scaleInDock": 1
+        },
+        "map.json#floortileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#office_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#readi": {
+            "scaleInDock": 1
+        },
+        "test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "map.json",
+        "WorkAdventureBruchsal/maps/start.json",
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json"
+    ],
+    "project": "WorkAdventureOne.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "map.json",
+        "WorkAdventureBruchsal/maps/start.json",
+        "WorkAdventureBruchsal/maps/RH-an-der-Luisenstrasse/2OG.json",
+        "C:/Users/alegab/WorkAdventu.re/content/dev_alex/WorkAdventureBruchsal/maps/FW-Haus/template.json",
+        "garden.json",
+        "Luisenpark_2.OG.json",
+        "bruchsal.tsx",
+        "test.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.transparentColor": "#ffffff",
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}
