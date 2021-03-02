@@ -1,0 +1,944 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/mall/mall01.json",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "C:/Users/alegab/workspace/tcm-client/TCM/Floor0",
+        "C:/Users/alegab/workspace/WorkAdventureOne",
+        "maps/Feuerwehrhaus",
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps",
+        "C:/Users/alegab/workspace/tcm-client",
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map",
+        "maps",
+        "C:/Users/alegab/workspace/tcm-client/TCM/tower-map",
+        "C:/Users/alegab/workspace/tcm-client/TCM/Lyon",
+        ".",
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park",
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map",
+        "maps/mall",
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea",
+        "maps/park",
+        "maps/conference",
+        "maps/RH-an-der-Luisenstrasse",
+        "tilesets"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Buergerpark.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 426,
+                "y": -352
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Buergerpark.json#Brunnen": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Buergerpark.json#brunnen 6x6": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Buergerpark.json#test": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 190.66666666666663,
+                "y": 334.6666666666666
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#Bildersammlung": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#bruchsaltileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#floortileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#modernset_floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#modernset_interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#office_1": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#office_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#office_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#tileset2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#tileset2.2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG-2.json#water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1112.6666666666665,
+                "y": 981.3333333333333
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG.json#Bildersammlung": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG.json#office_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Luisenpark_2.OG.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Schlossgarten.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1515,
+                "y": 2676
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Schlossgarten.json#Bilder": {
+            "scaleInEditor": 0.5
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Schlossgarten.json#Bildersammlung": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Schlossgarten.json#Schlossgarten": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/Schlossgarten.json#floortileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/bruchsaltileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/brunnen.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/fences.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/floortileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 511.90909090909093,
+                "y": 607.8181818181819
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#Brunnen_Klein": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#area": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#baum": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#brunnen 6x6": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#bushfence3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#fence_sign_spritesheet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#forest_tiles2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#gardenbottom": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#signpost-outsidestuff": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#table": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#tree_detail": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#treetest": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/garden.json#vendors_table-shadow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json": {
+            "scale": 0.9228940217391304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.8126610231874,
+                "y": 272.51232977548773
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#labor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/labor.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/luftbild.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4904,
+                "y": 3536
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/luftbild.json#Imagecollection": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/luftbild.json#luftbild": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json": {
+            "scale": 0.8873980978260869,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 758.3969377990431,
+                "y": 272.70736842105265
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#labor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#office_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/map.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 736,
+                "y": 544
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/map.json#bruchsal": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/map.json#bruchsaltileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/map.json#floortileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json": {
+            "scale": 0.9872672872340426,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 549.4965821463447,
+                "y": 604.1930161295754
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#exit": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#office_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/classroom-map/map.json#office_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json": {
+            "scale": 1.0087296195652173,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 569.5282351752703,
+                "y": 487.2465232178335
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json#exit": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json#office_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/coders-map/map.json#office_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 180.66666666666669,
+                "y": 1235.3333333333333
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json#collides": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json#modern_tileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/crea/map.json#office_interiors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json": {
+            "scale": 1,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 723.5,
+                "y": 530
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json#exit": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/maps/park/park.json#water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/mittagspause.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2557.5757575757575,
+                "y": 1534.8484848484848
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/mittagspause.json#bruchsaltileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/mittagspause.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/mittagspause.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/office_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/test.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1774,
+                "y": 2724
+            }
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/test.json#tree_detail": {
+            "scaleInDock": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/desks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/exit.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/extset_ice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/fantasy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/floortileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/modern_interiors_ukg.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/modern_tileset_darkmode.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/modernset_floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/modernset_floor_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/modernset_interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/office_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/office_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/office_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/office_4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/office_interiors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/tileset1-repositioning.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/tileset1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/tileset2.2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/tileset3.2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/tilesets/water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/alegab/workspace/WorkAdventureOne/unbenannt.tmx": {
+            "scale": 0.37525,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1584.2771485676217,
+                "y": 1601.5989340439708
+            }
+        },
+        "maps/Feuerwehrhaus/EG.json": {
+            "scale": 3,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 2272,
+                "y": 1616
+            }
+        },
+        "maps/Feuerwehrhaus/EG.json#EG_Hintergrundbild": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#Logo_Feuerwehr": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#bruchsaltileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#desks": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#exit": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#fantasy": {
+            "scaleInDock": 1.5
+        },
+        "maps/Feuerwehrhaus/EG.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#modernset_floor": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#modernset_floor_3": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#modernset_interior": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#office_2": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#office_3": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/EG.json#office_4": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2496.5,
+                "y": 2450
+            }
+        },
+        "maps/Feuerwehrhaus/OG.json#Bilder": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#Bildersammlung": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#bruchsaltileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#desks": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#fantasy": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "maps/Feuerwehrhaus/OG.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#modernset_floor": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#modernset_floor_3": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#modernset_interior": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#office_2": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#office_3": {
+            "scaleInDock": 1
+        },
+        "maps/Feuerwehrhaus/OG.json#office_4": {
+            "scaleInDock": 1.5
+        },
+        "maps/Feuerwehrhaus/OG.json#office_interiors": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 887.3333333333334,
+                "y": 1786
+            }
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#modern_tileset_darkmode": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#office_2": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#office_3": {
+            "scaleInDock": 1
+        },
+        "maps/RH-an-der-Luisenstrasse/2OG.json#office_4": {
+            "scaleInDock": 1
+        },
+        "maps/conference/conference.json": {
+            "scale": 1.1036764705882354,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 685.8894070619587,
+                "y": 543.6375749500331
+            }
+        },
+        "maps/conference/conference.json#bruchsaltileset": {
+            "scaleInDock": 1
+        },
+        "maps/conference/conference.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/conference/conference.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/mall/mall01.json": {
+            "scale": 0.6815492021276596,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 721.151163357885,
+                "y": 544.348080581435
+            }
+        },
+        "maps/mall/mall01.json#exit": {
+            "scaleInDock": 1
+        },
+        "maps/mall/mall01.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "maps/mall/mall01.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/mall/mall01.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/mall/mall01.json#water": {
+            "scaleInDock": 1
+        },
+        "maps/park/park.json": {
+            "scale": 1.1036764705882354,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 685.8894070619587,
+                "y": 543.6375749500331
+            }
+        },
+        "maps/park/park.json#exit": {
+            "scaleInDock": 1
+        },
+        "maps/park/park.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "maps/park/park.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/park/park.json#office_1": {
+            "scaleInDock": 1
+        },
+        "maps/park/park.json#water": {
+            "scaleInDock": 1
+        },
+        "maps/start.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 358,
+                "y": 477.5
+            }
+        },
+        "maps/start.json#Logo_Feuerwehr": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#bruchsaltileset": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#modern_interiors_ukg": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#office_3": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#office_4": {
+            "scaleInDock": 1
+        },
+        "maps/start.json#water": {
+            "scaleInDock": 1
+        },
+        "maps/template.json": {
+            "scale": 0.37525,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1585.6095936042639,
+                "y": 1601.5989340439708
+            }
+        },
+        "tilesets/bruchsaltileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tilesets/desks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/exit.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/extset_ice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/fantasy.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tilesets/floortileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/modern_interiors_ukg.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tilesets/modern_tileset_darkmode.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/modernset_floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/modernset_floor_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/modernset_interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/office_interiors.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tilesets/terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset1-repositioning.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset2.2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset3.2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tilesets_deviant_milkian_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tilesets_deviant_milkian_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tilesets_deviant_milkian_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/tilesets_deviant_milkian_4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "loadedWorlds": [
+        "C:/Users/alegab/workspace/WorkAdventureBruchsal/maps/bruchsal.world"
+    ],
+    "map.fixedSize": true,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "maps/start.json",
+        "maps/Feuerwehrhaus/EG.json",
+        "maps/Feuerwehrhaus/OG.json",
+        "maps/mall/mall01.json"
+    ],
+    "project": "workspace.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "maps/start.json",
+        "maps/Feuerwehrhaus/EG.json",
+        "maps/Feuerwehrhaus/OG.json",
+        "maps/mall/mall01.json",
+        "maps/park/park.json",
+        "maps/RH-an-der-Luisenstrasse/2OG.json",
+        "maps/conference/conference.json",
+        "maps/template.json",
+        "tilesets/office_interiors.tsx",
+        "tilesets/modernset_interior.tsx",
+        "tilesets/modernset_floor_3.tsx",
+        "tilesets/modernset_floor.tsx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}
