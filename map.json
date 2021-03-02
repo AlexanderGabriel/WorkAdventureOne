@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"WorkAdventureBruchsal\/maps\/start.json"
+                 "value":"WorkAdventureBruchsal\/maps\/start.json#start_conference"
                 }],
          "type":"tilelayer",
          "visible":true,
