@@ -1038,29 +1038,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":0,
-         "firstgid":321,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"Bildersammlung",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":1008,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"images\/Luisenpark_2.OG.jpg",
-                 "imageheight":1008,
-                 "imagewidth":2322
-                }],
-         "tilewidth":2322
         }],
  "tilewidth":32,
  "type":"map",
